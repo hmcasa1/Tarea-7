@@ -87,6 +87,8 @@ L1=L2
 (N^2 μA)/l=(〖(2N〗^2)μA)/l
 
 10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10-6 H/m). Determine la inductancia de la bobina que se formó.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2010.png)
  
 4π=12.5664            L=(N^2 μA)/l  
 
@@ -105,6 +107,8 @@ B3=18 mH
 La inductancia adicional que necesita es de 18.
 
 14.-En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercio%2014.png)
  
 1: L_TOTAL=L_1+L_2+L_4=(330+680+800)μH=1810 μH
 
@@ -127,6 +131,8 @@ La inductancia adicional que necesita es de 18.
 L_1=(96 〖(mH)〗^2)/(4 mH)=24 mH
 
 18.-Determine la inductancia total de cada circuito mostrado en la figura 13-47.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2018.png)
  
 Circuito (a):
 
@@ -155,6 +161,8 @@ c) R= 22 kΩ, L=100 mH
 τ=5(L/R)→ τ=5((15 mH x (1*〖10〗^(-3)  H)/(1 mH))/(22 kΩ x (1000 Ω)/(1 KΩ)))=22.7 us
 
 *22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2026.png)
  
 τ=(L/R)=(75 mH)/(8.2 kΩ)=9.15 us
 
@@ -180,6 +188,8 @@ c) 85 us∶i=1.22 mA ( 1- e^((-85 us)/( 9.15us)) )=1.22 mA
 
 26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2026.png)
+
 Dado que la polaridad del voltaje inducido se opone al cambio de corriente, entonces la polaridad será negativa
  
  (b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?
@@ -187,6 +197,8 @@ Dado que la polaridad del voltaje inducido se opone al cambio de corriente, ento
 I_f=V_s/R  =I_f=10V/8.2kΩ  = 1.22mA
 
 28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2028.png)
 
 R_T=(R_1+R_3 )|├|〖(R〗_2 〖+R〗_4 )=R_T= 8kΩ||11.5kΩ   R_T=4.72kΩ
 
@@ -201,6 +213,8 @@ I=I_i e^((-t)/t)=I=(569uA) e^((-1us)/0.699us)=I=136us
 I=I_i e^((-t)/t)=I=(569uA) e^((-1us)/3.496us)=I=427us
 
 30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2030.png)
 
 para el circuito a:
 
@@ -222,6 +236,8 @@ X_L=2πfL_T=    X_L=2π(5kHz)(57uH)= X_L=1.79Ω
  
 
 32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2032.png)
  
 L_T=50mH+((20mH)(40mH))/60mH= L_T=63.3H
 
@@ -238,6 +254,8 @@ I_L2=628Ω/(314Ω+628Ω)(10.1mA)= I_L2=6.7mA
 I_L3=314Ω/(314Ω+628Ω)(10.1mA)= I_L3=3.37mA
 
 34. En la figura 13-51, determine la potencia reactiva.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2034.png)
 
 〖total X〗_L1=2πfL_T=    X_L=2π(2.5kHz)(63.3mH)= X_L=994Ω
 
@@ -268,6 +286,8 @@ V_pri=V_sec/n=60/10=6 V
 V_sec=n(V_pri )=0.2(1200 V)=240 V
 
 12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2012%20cap.png)
  
 a) V_L=n(V_pri )=N_sec/N_pri  (V_pri )→(1/20)120V=6V
 
@@ -276,6 +296,8 @@ b) V_L=n(V_pri )=N_sec/N_pri  (V_pri )→(2/1)0V=0V
 〖c)V〗_L=n(V_pri )=N_sec/N_pri  (V_pri )→(4/1)10V=40V
 
 14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2014%20cap.png)
  
 n=I_sec/I_pri =N_pri/N_sec =1/n=1/3
 
@@ -286,16 +308,22 @@ I_sec=V_sec/R_L →R_L=V_sec/I_sec
 R_L=20V/33.33mA=600Ω
 
 16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2016%20cap.png)
  
 Re⁡〖v_i 〗=(1/n)^2=(1/n)^2*(680)=(1/n)*(680)=27,2
 
 18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2018%20cap.png)
  
 Rpri=(1/n)^2=(1/n)^2=〖(Rpri/Rl)=〗^ (1/n)=√(R⁡prⅈ/RL)=1/n=√(16/4=)  1/n=2
 
 						n=1/2=0,5
 
 20. Encuentre la relación de vueltas apropiadas en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2020%20cap.png)
  
 Posición 1
 
@@ -314,11 +342,6 @@ N_sec=Nsec1+Nsec2+Nsec3
 N_sec=13.3*100
 
 N_sec=1300vueltas
-
-
-
-
-
 
 Posición 2
 
@@ -353,10 +376,6 @@ N_sec=Nsec1+Nsec2+Nsec3
 N_sec=10*100
 
 N_sec=1000vueltas
-
-
-
-
 
 22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
@@ -428,11 +447,10 @@ Iprim=(0.05)*(41.7)
 
 Iprim=2.09A
 
-
-
 28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
 
- 
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2028%20cap.png)
+
 Secundario 1
 
 n=v_sec/v_pri
@@ -457,26 +475,11 @@ n=3/12
 
 n=0.25
 
-
-
-
 30.En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se debe conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
 
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-7/blob/03f6feeae2c7d4be98a04cfbed1b87d7dcebcb72/imagenes/Ejercicio%2030%20cap.png)
 
 Se debe conectar de la siguiente manera:
-
-
-
-
-
-
-
 
 100 VUELTAS
 
@@ -489,8 +492,6 @@ v_sec=12v
 v_sec=(200/2000)240v
 
 v_sec=24v
-
-
 
 500 VUELTAS
 
