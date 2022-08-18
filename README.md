@@ -10,13 +10,13 @@ NRC:7322
 
 OBJETIVO GENERAL
 
- • 
+ • Comprender el funcionamiento de inductores y transformadores dentro de un circuito electrico por medio de los aprendizajes en clase, investigaciones en medio de bases confiables, con el fin de tener aprendizajes claros y optimos para poder defendernos en las practicas.
  
 OBJETIVO ESPECIFICO 
 
- •
+ •Analizar el voltaje, intensidad al estar presentes estos nuevos elementos en el circuito 
  
- •
+ •Realizar los ejercicios y la practica de manera correcta 
 
 *MARCO TEORICO 
 
@@ -514,12 +514,13 @@ R: El devanado primario esta abierto, por lo tanto, el siguiente paso es reempla
 R: Alguno de los devanados segundarios podrían estar en cortocircuito, o el voltaje primario inferior al esperado.
 
 
-*CONCLUSIONES 
+CONCLUSIONES 
 
-•
+•El transformador es un dispositivo que permite elevar o disminuir el voltaje en un circuito por medio de un campo magnético, manteniendo una misma potencia.
 
-•
-*BIBLIOGRAFIA 
+•Los condensadores y los inductores son dispositivos de gran ayuda en la parte eléctrica 
+
+BIBLIOGRAFIA 
 
 • Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
 
